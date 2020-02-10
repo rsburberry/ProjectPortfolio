@@ -1,0 +1,8 @@
+*.eww
+*.ewt
+*.ewp
+*.ewd
+*.dep
+*.zip
+TiltBallGame/settings/
+TiltBallGame/Debug/
